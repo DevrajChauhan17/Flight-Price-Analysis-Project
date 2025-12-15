@@ -7,49 +7,34 @@ Using Python and data visualization, the goal is to understand how various facto
 
 🎯 Objectives
 
-Analyze average flight prices across airlines
-
-Study the impact of departure and arrival times on ticket pricing
-
-Examine the relationship between flight duration and price
-
-Identify airlines with high price variability
-
-Classify airlines into budget vs premium categories using visual analysis
+- Analyze average flight prices across airlines
+- Study the impact of departure and arrival times on ticket pricing
+- Examine the relationship between flight duration and price
+- Identify airlines with high price variability
+- Classify airlines into budget vs premium categories using visual analysis
 
 🛠️ Tools & Technologies
 
-Python
-
-Pandas – data cleaning & manipulation
-
-Matplotlib & Seaborn – data visualization
-
-Jupyter Notebook – analysis and reporting
+- Python
+- Pandas – data cleaning & manipulation
+- Matplotlib & Seaborn – data visualization
+- Jupyter Notebook – analysis and reporting
 
 📊 Analysis & Visualizations
 
 The project includes multiple visualizations such as:
-
-Bar charts for average airline pricing
-
-Box plots to analyze price variability
-
-Scatter plots for duration vs price analysis
-
-Time-based comparisons for departure and arrival trends
-
+- Bar charts for average airline pricing
+- Box plots to analyze price variability
+- Scatter plots for duration vs price analysis
+- Time-based comparisons for departure and arrival trends
 Each visualization addresses a specific business or customer-focused question.
 
 📈 Key Insights
 
-Ticket prices vary significantly across airlines
-
-Flight duration has a noticeable impact on pricing
-
-Certain travel times tend to be more cost-efficient
-
-Airlines can be visually grouped into budget and premium categories
+- Ticket prices vary significantly across airlines
+- Flight duration has a noticeable impact on pricing
+- Certain travel times tend to be more cost-efficient
+- Airlines can be visually grouped into budget and premium categories
 
 📂 Project Structure
 📁 Flight-Price-Analysis
@@ -59,11 +44,9 @@ Airlines can be visually grouped into budget and premium categories
 
 🚀 How to Run the Project
 
-Clone the repository
+1. Clone the repository
 
 git clone <repository-link>
 
-
-Open the Jupyter Notebook
-
-Run all cells to reproduce the analysis and visualizations
+2. Open the Jupyter Notebook
+3. Run all cells to reproduce the analysis and visualizations
